@@ -11,8 +11,11 @@ To write a Python program that handles an **IndexError** when trying to access a
 3. Print the result based on whether the index access succeeds or fails.
 
 ## 🧾 Program
-Add code here
+~~~
+
+~~~
 
 ## Output
 
 ## Result
+Thus , the program has been executed successfully.
